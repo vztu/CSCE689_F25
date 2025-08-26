@@ -1,4 +1,18 @@
-# CSCE 689: Special Topics on Generative AI (F'25)
+# CSCE 689: Special Topics in Generative AI (F'25)
+
+## Course Information
+
+### Lectures
+
+* Time: Tue/Thur 3:55pm - 5:15pm
+* Location: HRBB 113
+
+### Instructor
+
+* Zhengzhong Tu
+* Email: tzz [AT] tamu [DOT] edu
+* Office PETR 220
+* Office Hours: By appointment (Tue 5:30pm - 6:15pm), sign up [here](https://calendar.app.google/YvWoXV13mXZbYX799) (each slot 15 mins)
 
 # Course Schedule – Fall 2025
 
